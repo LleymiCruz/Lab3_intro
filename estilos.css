@@ -1,0 +1,26 @@
+body{
+   font-family: 'Courier New', Courier, monospace;
+    background-color: hsl(0, 0%, 20%);
+}
+
+div{
+    background-color: rgb(244, 14, 53);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    cursor:pointer
+}
+.divestilo{
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+}
+#div3{
+    background-color: #ae2424;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
